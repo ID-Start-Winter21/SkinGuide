@@ -4,9 +4,8 @@ Unser Wunsch für dieses Projekt ist, dass wir etwas cooles und hilfreiches für
 
 **Hierzu gehen wir wie gefolgt vor:**
 - Brainstorming
-- Welche Tools kommen in Frage
-- Use-Case definieren
-- Moodboard
+- Entscheidung welchen Skill wir erstellen wollen
+- Dialog entwerfen
 - Umsetzung
 
 
