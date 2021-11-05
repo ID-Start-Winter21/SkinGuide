@@ -8,3 +8,6 @@ Unser Wunsch für dieses Projekt ist, dass wir etwas cooles und hilfreiches für
 - Use-Case definieren
 - Moodboard
 - Umsetzung
+
+
+[Link zu Miro: Team 06](https://miro.com/app/board/o9J_llC7QLg=/)
