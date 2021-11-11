@@ -10,3 +10,17 @@ Unser Wunsch für dieses Projekt ist, dass wir etwas cooles und hilfreiches für
 
 
 [Link zu unserem Miro-Board: Team 06](https://miro.com/app/board/o9J_llC7QLg=/)
+
+
+
+
+
+
+
+Was ist der Wert des Skills für das Hi!A Festival Event Voice-Apps?
+
+
+Was kann der Skill, was kann er nicht, d.h. was ist der Scope des Skills? 
+
+
+Wie interagieren die Besucher:innen mit dem Skill?
