@@ -1,11 +1,11 @@
 ## Hallo, wir sind das Team-06! 
 
 Wir: 
-•	Ann-Marie Atzkern
-•	Berfin Berg
-•	Ece Sutanrikulu
-•	Ilayda Güner
-•	Kármen Florentina Bulai
+- Ann-Marie Atzkern
+- Berfin Berg
+- Ece Sutanrikulu
+- Ilayda Güner
+- Kármen Florentina Bulai
 
 studieren im ersten Semester Informatik und Design im Wintersemester 2021/22. Und ist unser Repository. 
 
