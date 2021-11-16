@@ -30,5 +30,4 @@ Wir:
 studieren im ersten Semester Informatik und Design im Wintersemester 2021/22. Im Rahmen des Projektmoduls Start, sollen wir einen lauffähigen Alexa Skill konzipieren und entwickeln. Hierbei gibt es keine Einschränkungen im Anwendungsbereich des Skills.
 
 ***
-Hallo ich bin Karmen hallloooo
 [Link zu unserem Miro-Board: Projektmodul Start - Team 06](https://miro.com/app/board/o9J_llC7QLg=/)
