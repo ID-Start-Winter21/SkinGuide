@@ -19,13 +19,6 @@ Bei der Skincare-Routine und der Maske möchte Alexa wissen, welchen Hauttyp der
 
 ## ÜBER UNS – WER SIND WIR?
 
-
-
-![GruppenBild](https://user-images.githubusercontent.com/91656534/142009430-c945a478-cef0-42f3-abd0-3a2ee7bff1a1.jpg)
-
-
-
-
 Wir:
 
 •	Ann-Marie Atzkern (atzkern@hm.edu)\
