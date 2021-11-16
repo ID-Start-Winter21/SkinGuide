@@ -1,4 +1,4 @@
-## ÜBER SkinGuide – KONZEPT
+## ÜBER SKINGUIDE – KONZEPT
 
 Die Pflege für das Gesicht ist immer mehr im Trend. Immer mehr Nutzer:innen möchten sowohl mehr über die alltägliche Pflege, als auch über einfache Routinen erfahren. Meist fehlt es hierbei aber an zuverlässigen Quellen und wirklich hilfreichen Tipps, da viele Produkte den Nutzer:innen durch bezahlte Werbung in den sozialen Medien näher gebracht werden. 
 Skin Care verzichtet ganzheitlich auf die Nennung spezifischer Produkte zur Bekämpfung von Unreinheiten und Irritationen der Haut. Stattdessen werden den Nutzer:innen individuell abgestimmte und passende Inhaltsstoffe genannt, welche die langfristige Pflege der Haut unterstützen können. Somit sind die Nutzer:innen nicht gebunden an ein bestimmtes Produkt, sondern kennt nun die nötigen Inhaltsstoffe und kann sich passende Produkte selbst aussuchen.
