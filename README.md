@@ -18,10 +18,6 @@ Bei der Skincare-Routine und der Maske möchte Alexa wissen, welchen Hauttyp der
 
 
 
-
-Bild folgt
-
-
 ## ÜBER UNS – WER SIND WIR?
 
 Wir:
