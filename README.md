@@ -1,11 +1,11 @@
 ## ÜBER SKINGUIDE – KONZEPT
 
 Die Pflege für das Gesicht ist immer mehr im Trend. Immer mehr Nutzer:innen möchten sowohl mehr über die alltägliche Pflege, als auch über einfache Routinen erfahren. Meist fehlt es hierbei aber an zuverlässigen Quellen und wirklich hilfreichen Tipps, da viele Produkte den Nutzer:innen durch bezahlte Werbung in den sozialen Medien näher gebracht werden. 
-Skin Care verzichtet ganzheitlich auf die Nennung spezifischer Produkte zur Bekämpfung von Unreinheiten und Irritationen der Haut. Stattdessen werden den Nutzer:innen individuell abgestimmte und passende Inhaltsstoffe genannt, welche die langfristige Pflege der Haut unterstützen können. Somit sind die Nutzer:innen nicht gebunden an ein bestimmtes Produkt, sondern kennt nun die nötigen Inhaltsstoffe und kann sich passende Produkte selbst aussuchen.
-Die Nutzer:innen von Skin-Care verlassen das Hi!A Festival Event Voice-Apps mit hilfreichen Tipps zur individuellen Pflege ihrer Haut.
+SkinGuide verzichtet ganzheitlich auf die Nennung spezifischer Produkte zur Bekämpfung von Unreinheiten und Irritationen der Haut. Stattdessen werden den Nutzer:innen individuell abgestimmte und passende Inhaltsstoffe genannt, welche die langfristige Pflege der Haut unterstützen können. Somit sind die Nutzer:innen nicht gebunden an ein bestimmtes Produkt, sondern kennt nun die nötigen Inhaltsstoffe und kann sich passende Produkte selbst aussuchen.
+Die Nutzer:innen von SkinGuide verlassen das Hi!A Festival Event Voice-Apps mit hilfreichen Tipps zur individuellen Pflege ihrer Haut.
 
 
-Mit Skin-Care erfährt man nach dem Beantworten weniger Fragen den eigenen Hauttypen und passende Inhaltsstoffe zur Pflege dieses Hauttypen. Zusätzlich bietet der Skill die Maskenfunktion. Dabei werden den Nutzer:innen passende Rezepte für Gesichtsmasken mit üblichen Haushaltsmitteln vorgeschlagen. Für schnelle und kurzfristige Tipps gibt es die SOS-Funktion. SOS-Tipps bieten schnelle Lösungen für Unreinheiten durch die Verwendung haushaltsüblicher Produkte, um ein wichtiges Date nicht mehr wegen eines unangenehmen Pickels absagen zu müssen. 
+Mit SkinGuide erfährt man nach dem Beantworten weniger Fragen den eigenen Hauttypen und passende Inhaltsstoffe zur Pflege dieses Hauttypen. Zusätzlich bietet der Skill die Maskenfunktion. Dabei werden den Nutzer:innen passende Rezepte für Gesichtsmasken mit üblichen Haushaltsmitteln vorgeschlagen. Für schnelle und kurzfristige Tipps gibt es die SOS-Funktion. SOS-Tipps bieten schnelle Lösungen für Unreinheiten durch die Verwendung haushaltsüblicher Produkte, um ein wichtiges Date nicht mehr wegen eines unangenehmen Pickels absagen zu müssen. 
 
 
 Beim Start des Skills will Alexa zunächst wissen, wie sie helfen kann. Hierbei haben die Benutzer:innen folgende Möglichkeiten: Skincare-Routine, Maske und SOS-Tipps. 
