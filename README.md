@@ -12,8 +12,10 @@ Beim Start des Skills will Alexa zunächst wissen, wie sie helfen kann. Hierbei 
 Bei der Skincare-Routine und der Maske möchte Alexa wissen, welchen Hauttyp der/die Nutzer:in hat. Dabei kann der/die Nutzer:in zwischen folgenden Möglichkeiten auswählen: Normale Haut, Mischhaut, trockene Haut und fettige Haut. Kennt der/die Nutzer:in seinen/ihren Hauttypen nicht, ist das auch kein Problem. Nach wenigen Fragen kennt Alexa den Hauttypen des/der Nutzers/Nutzerin. Entsprechend des Hauttypen schlägt Alexa schließlich eine passende Skincare-Routine oder das Rezept einer Gesichtsmaske vor. Fragt der/die Nutzer:in nach SOS-Tipps fragt Alexa nach dem Problem. Der/Die Nutzer:in sagt dann beispielsweise Pickel, Rötung, Mitesser, Augenringe, etc. woraufhin Alexa schnelle Lösungen mit haushaltsüblichen Produkten liefert. Öfteres Durchgehen zahlt sich aus, denn Alexa kennt für jeden Hauttypen mehrere Skincare-Routinen und Gesichtsmasken. 
 
 
+
 ## STORYBOARD
 ![Storyboard Skincare](https://user-images.githubusercontent.com/91656534/142060245-535eaa69-19ff-4a4d-876e-d404d7d08178.jpg)
+
 
 
 ## ÜBER UNS – WER SIND WIR?
