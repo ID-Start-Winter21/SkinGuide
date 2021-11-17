@@ -28,4 +28,4 @@ Wir:
 •	Ilayda Güner (iguener@hm.edu)\
 •	Kármen Florentina Bulai (bulai@hm.edu)
 
-studieren im ersten Semester Informatik und Design im Wintersemester 2021/22. Im Rahmen des Projektmoduls Start, sollen wir einen lauffähigen Alexa Skill konzipieren und entwickeln. Hierbei gibt es keine Einschränkungen im Anwendungsbereich des Skills.
+studieren im ersten Semester Informatik und Design im Wintersemester 2021/22. Im Rahmen des Projektmoduls Start, sollen wir einen lauffähigen Alexa Skill konzipieren und entwickeln. Hierbei gibt es keine Einschränkungen im Anwendungsbereich des Skills. Der entwickelte Skill soll am 10.12.2021 auf dem Hi!A Festival Event Voice-Apps vorgestellt werden. 
