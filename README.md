@@ -1,3 +1,6 @@
+
+<img src = "https://github.com/ID-Start-Winter21/start-team-06/blob/main/images/SKINGUIDE_HEADLINE.jpg" width = "1400">
+
 ## ÜBER SKINGUIDE
 
 Die Pflege für das Gesicht ist immer mehr im Trend. Immer mehr Nutzer:innen möchten sowohl mehr über die alltägliche Pflege, als auch über einfache Routinen erfahren. Meist fehlt es hierbei aber an zuverlässigen Quellen und wirklich hilfreichen Tipps, da viele Produkte den Nutzer:innen durch bezahlte Werbung in den sozialen Medien näher gebracht werden. 
