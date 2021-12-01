@@ -1,5 +1,5 @@
 
-<img src = "https://github.com/ID-Start-Winter21/start-team-06/blob/main/images/SKINGUIDE_HEADLINE_2.jpg" width = "600">
+<img src = "https://github.com/ID-Start-Winter21/start-team-06/blob/main/images/SKINGUIDE_HEADLINE_2.jpg" width = "800">
 
 ## ÜBER SKINGUIDE
 
