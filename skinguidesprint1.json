@@ -544,18 +544,6 @@
                     ]
                 },
                 {
-                    "name": "capture_intent_jxnle",
-                    "slots": [
-                        {
-                            "name": "capture_slot_eyvlq",
-                            "type": "AMAZON.DE_FIRST_NAME"
-                        }
-                    ],
-                    "samples": [
-                        "{capture_slot_eyvlq}"
-                    ]
-                },
-                {
                     "name": "AMAZON.NavigateHomeIntent",
                     "samples": []
                 }
