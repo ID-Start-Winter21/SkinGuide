@@ -23,7 +23,7 @@ Bei der Skincare-Routine und der Maske möchte Alexa wissen, welchen Hauttyp der
 
 ## ÜBER UNS – WER SIND WIR?
 
-Wir:
+Wir
 
 •	Ann-Marie Atzkern (atzkern@hm.edu)\
 •	Berfin Berg (berfin.berg@hm.edu)\
