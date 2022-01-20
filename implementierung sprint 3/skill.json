@@ -1,0 +1,88 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "de-DE": {
+          "summary": "SkinGuide ist ein Sprachassistent, der den Nutzer:innen hilft, den eigenen Hauttyp zu bestimmen und geeignete Inhaltsstoffe für die Pflege anzubieten.",
+          "examplePhrases": [
+            "Alexa, open Skin Guide",
+            "Alexa, start Skin Guide",
+            "Alexa, launch Skin Guide"
+          ],
+          "keywords": [
+            "skincare",
+            "beauty",
+            "skin",
+            "Haut",
+            "Hautpflege",
+            "Gesichtspflege",
+            "Schönheit",
+            "Kosmetik",
+            "cosmetic",
+            "Routine",
+            "Schönheitspflege",
+            "Hygiene",
+            "Körperpflege",
+            "selfcare",
+            "Selbstpflege",
+            "Fürsorge",
+            "Selbstfürsorge",
+            "Vorbeugung",
+            "Prävention",
+            "Pflege",
+            "Guide"
+          ],
+          "name": "SkinGuide",
+          "description": "Skinguide ist ein Sprachassistent, der dem Nutzer hilft, den eigenen Hauttyp zu bestimmen und geeignete Inhaltsstoffe für die Pflege dieses Hauttyps anzubieten. Er ist für Nutzer gedacht, die nicht viel über Hautpflege wissen und ihre Haut besser pflegen wollen. Jeder, der Hautprobleme hat, weiß, wie schwierig und kompliziert es sein kann, eine geeignete Pflegeroutine zu finden. Noch schwieriger ist es, wenn man seinen Hauttyp überhaupt nicht kennt.\n\nMit SkinGuide kann man nach der Beantwortung einfacher Fragen, z. B. wie sich die Haut im Laufe des Tages verändert, den eigenen Hauttyp herausfinden. Mit diesem Wissen ist SkinGuide in der Lage, geeignete Inhaltsstoffe für die Pflege dieses bestimmten Hauttyps zu empfehlen. Für die Fragen braucht man im Grunde nur einen Spiegel, um die Haut auf Merkmale wie Ölproduktion, Porengröße und Hautbeschaffenheit zu analysieren. Darüber hinaus bietet der Skill die Maskenfunktion, bei der dem Nutzer kurze und einfache Rezepte für Gesichtsmasken vorgeschlagen werden, die mit haushaltsüblichen Produkten wie Honig oder Joghurt zubereitet werden.\n\nFür schnelle und kurzfristige Tipps gibt es die SOS-Funktion. Die SOS-Tipps bieten schnelle Lösungen für Unreinheiten im Gesicht mit gewöhnlichen Haushaltsprodukten. So muss man nicht vermeiden, dass man einen wichtigen Termin wegen eines unangenehmen Pickels absagen muss.\n\nSchließlich gibt es noch die Step by Step Skincare Routine. Der Benutzer kann zwischen 4 trendigen Hautpflegeroutinen wählen, wie z.B. die berühmte koreanische 9-Schritte-Hautpflegeroutine oder die uralte Gesichtsmassage-Methode mit einem Gua Sha. Es gibt auch die Wahl zwischen einer einfachen Gesichtsmassage und einer gezielten Lymphdrainage-Massage.\n\nMit SkinGuide wollen wir den Menschen helfen, sich besser um ihre Haut zu kümmern.",
+          "smallIconUri": "file://assets/images/de-DE_smallIconUri.png",
+          "updatesDescription": "",
+          "largeIconUri": "file://assets/images/de-DE_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "",
+      "category": "SELF_IMPROVEMENT",
+      "distributionMode": "PUBLIC",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sslCertificateType": "Wildcard",
+          "uri": "arn:aws:lambda:eu-west-1:730810338529:function:d60113cb-6d74-4688-9032-46ea726dbdc1:Release_0"
+        },
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:730810338529:function:d60113cb-6d74-4688-9032-46ea726dbdc1:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:730810338529:function:d60113cb-6d74-4688-9032-46ea726dbdc1:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:730810338529:function:d60113cb-6d74-4688-9032-46ea726dbdc1:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "de-DE": {}
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
